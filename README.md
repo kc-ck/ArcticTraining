@@ -1,3 +1,9 @@
+CK Notes:
+Look up ExCoT under projects folder. See:
+  https://old.reddit.com/r/machinelearningnews/comments/1jqchkg/snowflake_proposes_excot_a_novel_ai_framework/
+  https://www.snowflake.com/en/engineering-blog/arctic-text2sql-excot-sql-generation-accuracy/
+  Paper here: https://arxiv.org/pdf/2503.19988
+
 [![License Apache 2.0](https://badgen.net/badge/license/apache2.0/blue)](https://github.com/snowflakedb/ArcticTraining/blob/main/LICENSE)
 [![PyPI version](https://badge.fury.io/py/arctic-training.svg)](https://pypi.org/project/arctic-training/)
 
